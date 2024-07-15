@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153914415916",
+    "project_id": "felport-37dea",
+    "storage_bucket": "felport-37dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153914415916:android:e2b265f8d2356a380e6a89",
+        "android_client_info": {
+          "package_name": "com.example.felport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj2flv-AxTotP6TtaLJra6XujC402hBbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
